@@ -26,3 +26,7 @@ dist/
 
 .DS_Store
 Thumbs.db
+# .gitignore
+*.secret
+secret.txt
+.env
