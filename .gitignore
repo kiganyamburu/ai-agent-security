@@ -1,0 +1,1 @@
+add all the files and directories you want to ignore in your Git repository. Each line should contain a pattern that matches the files or directories you want to exclude. for python projects, you might want to ignore the following common files and directories:
